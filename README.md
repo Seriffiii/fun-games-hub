@@ -1,6 +1,7 @@
 # Fun Games Hub
 
 A collection of simple, engaging browser games built with HTML, CSS, and vanilla JavaScript. Play alone or challenge a friend on the same device!
+<img src="images/homepage.png" alt="Fun Games Hub Homepage" style="width: 300px;">
 
 ## 🎮 Games Included
 
@@ -12,16 +13,6 @@ A collection of simple, engaging browser games built with HTML, CSS, and vanilla
 ### Solo Games
 - **Snake Game**: Eat food, grow longer, and avoid hitting walls or yourself
 - **Memory Match**: Test your memory by finding matching pairs of cards
-
-## 🚀 Live Demo
-Check out the games at: https://nxr-deen.github.io/fun-games-hub
-(This URL will work after you enable GitHub Pages)
-
-## 📸 Screenshots
-
-![Fun Games Hub Homepage](screenshots/homepage.png)
-![Tic Tac Toe Game](screenshots/tic-tac-toe.png)
-![Coin Flip Challenge](screenshots/coin-flip.png)
 
 ## 🛠️ Technologies Used
 - HTML5
