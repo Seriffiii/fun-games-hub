@@ -1,7 +1,8 @@
 # Fun Games Hub
 
 A collection of simple, engaging browser games built with HTML, CSS, and vanilla JavaScript. Play alone or challenge a friend on the same device!
-<img src="images/homepage.png" alt="Fun Games Hub Homepage" style="width: 300px;">
+
+<img src="images/homepage.png" alt="Fun Games Hub Homepage" style="width: 700px;">
 
 ## 🎮 Games Included
 
