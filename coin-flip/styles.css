@@ -110,7 +110,7 @@ main {
 }
 
 .choice-btn {
-    background-color: #f0f0f0;
+    background-color: #837f7f; #changed the background color slightly to make the text visible
     border: 2px solid transparent;
     border-radius: 4px;
     padding: 0.5rem;
@@ -122,9 +122,13 @@ main {
     background-color: #e4e4e4;
 }
 
+.choice-btn:active {
+    opacity: 0.7; #added this to make it look more interactive
+}
+
 .choice-btn.selected {
     border-color: #3498db;
-    background-color: #ebf5fb;
+    background-color: #3498db;
 }
 
 .selection {
